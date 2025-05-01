@@ -2,7 +2,7 @@
   
 # Hi there, I'm Ruhul Amin 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Passionate+Full+Stack+Developer;Linux+Enthusiast;Self-Hosting+Advocate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Passionate+Full+Stack+Developer;Linux+Enthusiast;Self-Hosting+Advocate" alt="Typing SVG" /></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/CodeBuddy07?style=for-the-badge&logo=github&color=181717)](https://github.com/CodeBuddy07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
