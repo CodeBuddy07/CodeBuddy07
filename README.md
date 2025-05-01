@@ -1,78 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">💻 Passionate Full Stack Web Developer | Code Crafter | Home Server Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+React+%7C+Next.js+%7C+Node+%7C+MongoDB;Loves+to+Build+Scalable+Apps;Home+Server+Nerd+%7C+Cloudflare+%7C+CasaOS" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on: **Accounting System for IPTV Business**
-- 🌱 Learning & Exploring: **Next.js, ShadCN, Zustand, Prisma**
-- 🌍 Hosting my own services with: **CasaOS + Cloudflare Tunnel**
-- 🎯 Goal: To become a successful backend/frontend engineer and support my favorite people through my coding journey!
-
----
-
-## ⚙️ Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,tailwind,prisma,mongodb,mysql,git,github,docker,vscode,clerk" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=linux,figma,vercel,netlify,graphql" />
+  
+# Hi there, I'm Ruhul Amin 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Passionate+Full+Stack+Developer;Linux+Enthusiast;Self-Hosting+Advocate" alt="Typing SVG" /></a>
+
+[![GitHub followers](https://img.shields.io/github/followers/CodeBuddy07?style=for-the-badge&logo=github&color=181717)](https://github.com/CodeBuddy07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/RuhulAmin0101/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rjruhul05@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://cloudyruhul.xyz)
+
+<img src="https://komarev.com/ghpvc/?username=CodeBuddy07&style=for-the-badge&color=539BF5">
+
 </div>
 
----
+## 💻 About Me
 
-## 📦 Currently Building
+> *"I love to code and host stuff myself."*
 
-- 🚀 **Next.js Portfolio Dashboard** with full CMS for managing status, projects, and blog
-- ⚙️ **CasaOS-based Home Server** running services like:
-  - Jellyfin for media streaming
-  - AdGuard Home for DNS blocking
-  - Portainer for container management
-  - Dynamic domain via `cloudyruhul.xyz`
+I'm a passionate Full Stack Developer focused on creating efficient, user-friendly applications and obsessed with self-hosting solutions. From wrangling frontend frameworks to configuring Linux servers, I enjoy the entire development ecosystem.
 
----
+## 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruhulamin0101&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin0101&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin0101&layout=compact&theme=tokyonight" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Connect With Me
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruhul-amin-b39a69249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/RuhulAmin0101" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+</div>
 
-## 🧠 Fun Facts
+## 🚀 What I'm Working On
 
-- 🧩 I love coding so much I even host servers at home!
-- 🎮 Anime + Code = My peace combo (Naruto, AOT, Solo Leveling 💥)
-- 🔧 I tweak Linux servers in my free time for fun
+<table>
+  <tr>
+    <td>
+      <h3>🧠 Personal Dashboard</h3>
+      <p>Building a comprehensive dashboard with project tracking, blog management, and server status monitoring. Using Next.js, ShadCN, and Zustand for state management.</p>
+      <div align="center"><h4>⚙️ In Progress</h4></div>
+    </td>
+    <td>
+      <h3>🏠 Home Server Setup</h3>
+      <p>Running CasaOS with Jellyfin, AdGuard, and various other services. Accessible through Cloudflare Tunnel at <a href="https://cloudyruhul.xyz">cloudyruhul.xyz</a>.</p>
+      <div align="center"><h4>🔄 Continuously Evolving</h4></div>
+    </td>
+  </tr>
+</table>
 
----
+## 📚 Currently Learning
 
-## 🐾 Visitors
+- Mastering component libraries with ShadCN UI
+- Advanced state management with Zustand
+- Full-stack development with Next.js + Prisma
+- Server optimization and security
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruhulamin0101&label=Profile+Views&color=0e75b6&style=flat" alt="ruhulamin0101" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeBuddy07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBuddy07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuddy07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌟 Fun Facts
+
+- Anime enthusiast: Naruto, Attack on Titan, and Solo Leveling are my favorites
+- Linux tinkerer who enjoys configuring servers for fun
+- Self-hosting advocate running Jellyfin media server and CasaOS
+- Dream: Become successful in programming to support my loved ones
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+Whether you're interested in collaboration, have questions about self-hosting, or just want to chat about anime, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/RuhulAmin0101/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rjruhul05@gmail.com)
+
+</div>
