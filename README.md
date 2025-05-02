@@ -86,7 +86,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuddy07&theme=tokiyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuddy07&theme=tokiyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Fun Facts
