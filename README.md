@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/RuhulAmin0101/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rjruhul05@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://cloudyruhul.xyz)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://www.ruhulcodes.com/)
 
 <img src="https://komarev.com/ghpvc/?username=CodeBuddy07&style=for-the-badge&color=539BF5">
 
