@@ -5,9 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=435&lines=Passionate+Full+Stack+Developer;Linux+Enthusiast;Self-Hosting+Advocate" alt="Typing SVG" /></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/CodeBuddy07?style=for-the-badge&logo=github&color=181717)](https://github.com/CodeBuddy07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/RuhulAmin0101/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rjruhul05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codebuddy07/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/codebuddy07/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ruhulamin.dev07@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://www.ruhulcodes.com/)
 
 <img src="https://komarev.com/ghpvc/?username=CodeBuddy07&style=for-the-badge&color=539BF5">
@@ -102,8 +102,8 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 
 Whether you're interested in collaboration, have questions about self-hosting, or just want to chat about anime, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruhul-amin-b39a69249/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/RuhulAmin0101/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rjruhul05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codebuddy07/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/codebuddy07/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ruhulamin.dev07@gmail.com)
 
 </div>
