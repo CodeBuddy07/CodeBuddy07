@@ -54,7 +54,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 
 </div>
 
-## 🚀 What I'm Working On
+<!-- ## 🚀 What I'm Working On
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
       <div align="center"><h4>🔄 Continuously Evolving</h4></div>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 📚 Currently Learning
 
