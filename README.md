@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/CodeBuddy07?style=for-the-badge&logo=github&color=181717)](https://github.com/CodeBuddy07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codebuddy07/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/codebuddy07/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-1877F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/_codebuddy07)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ruhulamin.dev07@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://www.ruhulcodes.com/)
 
@@ -35,6 +36,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
