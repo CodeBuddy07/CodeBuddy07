@@ -36,7 +36,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
