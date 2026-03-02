@@ -73,12 +73,10 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
   </tr>
 </table> -->
 
-## 📚 Currently Learning
+## 📚 Currently Working On:
 
-- Mastering component libraries with ShadCN UI
-- Advanced state management with Zustand
-- Full-stack development with Next.js + Prisma
-- Server optimization and security
+  <img src="https://gitmystat.vercel.app/recent?username=CodeBuddy07" alt="GitHub Latest Work" />
+
 
 ## 📊 GitHub Stats
 
