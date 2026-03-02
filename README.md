@@ -89,7 +89,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuddy07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=CodeBuddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Streak"/>
+ <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?username=CodeBuddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## 🌟 Fun Facts
