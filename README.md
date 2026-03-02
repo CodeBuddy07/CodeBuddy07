@@ -15,13 +15,13 @@
 
 </div>
 
-## 💻 About Me
+## About Me
 
-> *"I love to code and host stuff myself."*
+> *"I love to code and design systems."*
 
 I'm a passionate Full Stack Developer focused on creating efficient, user-friendly applications and obsessed with self-hosting solutions. From wrangling frontend frameworks to configuring Linux servers, I enjoy the entire development ecosystem.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
@@ -73,12 +73,12 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
   </tr>
 </table> -->
 
-## 📚 Currently Working On:
+## Currently Working On:
 
   <img src="https://gitmystat.vercel.app/recent?username=CodeBuddy07" alt="GitHub Latest Work" />
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=CodeBuddy07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
@@ -90,7 +90,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Streak"/>
 </div> -->
 
-## 🌟 Fun Facts
+## Fun Facts
 
 - Anime enthusiast: Naruto, Attack on Titan, and Solo Leveling are my favorites
 - Linux tinkerer who enjoys configuring servers for fun
