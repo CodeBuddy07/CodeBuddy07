@@ -23,7 +23,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
