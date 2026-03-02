@@ -85,6 +85,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, user-friend
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeBuddy07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBuddy07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=CodeBuddy07&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
 <div align="center">
